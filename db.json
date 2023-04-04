@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "portfolios": [
     { "id": "1", "title": "Portfolio 1", "description":"My main coins are collected 1", "assets":[
       { "symbol": "BTC", "change24h": "-3.2%", "marketCap": "988.95M", "count": 1, "id": "1" },
       { "symbol": "ETH", "change24h": "-1.2%", "marketCap": "765.95M", "count": 1, "id": "2" },
