@@ -1,22 +1,40 @@
 {
   "portfolios": [
-    { "id": "1", "title": "Portfolio 1", "description":"My main coins are collected 1", "assets":[
+    { "id": "1", "title": "Portfolio 1", "description":"Description 1", "assets":[
       { "symbol": "BTC", "change24h": "-3.2%", "marketCap": "988.95M", "count": 1, "id": "1" },
       { "symbol": "ETH", "change24h": "-1.2%", "marketCap": "765.95M", "count": 1, "id": "2" },
       { "symbol": "BSW", "change24h": "+3.2%", "marketCap": "34.95M", "count": 1, "id": "3" }
     ] },
-    { "id": "2", "title": "Portfolio 2", "description":"My main coins are collected 1", "assets":[
+    { "id": "2", "title": "Portfolio 2", "description":"Description 2", "assets":[
       { "symbol": "BTC", "change24h": "-3.2%", "marketCap": "988.95M", "count": 1, "id": "1" },
       { "symbol": "ETH", "change24h": "-1.2%", "marketCap": "765.95M", "count": 1, "id": "2" },
       { "symbol": "BSW", "change24h": "+3.2%", "marketCap": "34.95M", "count": 1, "id": "3" }
     ] },
-    { "id": "3", "title": "Portfolio 3", "description":"My main coins are collected 1", "assets":[
+    { "id": "3", "title": "Portfolio 3", "description":"Description 3", "assets":[
+      { "symbol": "BTC", "change24h": "-3.2%", "marketCap": "988.95M", "count": 1, "id": "1" },
+      { "symbol": "ETH", "change24h": "-1.2%", "marketCap": "765.95M", "count": 1, "id": "2" },
+       { "symbol": "ETH", "change24h": "-1.2%", "marketCap": "765.95M", "count": 1, "id": "3" },
+       { "symbol": "ETH", "change24h": "-1.2%", "marketCap": "765.95M", "count": 1, "id": "4" },
+       { "symbol": "ETH", "change24h": "-1.2%", "marketCap": "765.95M", "count": 1, "id": "5" },
+      { "symbol": "BSW", "change24h": "+3.2%", "marketCap": "34.95M", "count": 1, "id": "6" }
+    ] },
+   { "id": "4", "title": "Portfolio 4", "description":"Description 4", "assets":[
+      { "symbol": "BTC", "change24h": "-53.2%", "marketCap": "68.95M", "count": 1, "id": "1" },
+      { "symbol": "ETH", "change24h": "-31.2%", "marketCap": "15.95M", "count": 1, "id": "2" },
+       { "symbol": "ETH", "change24h": "-11.2%", "marketCap": "25.55M", "count": 1, "id": "3" },
+       { "symbol": "ETH", "change24h": "-12.2%", "marketCap": "74.95M", "count": 1, "id": "4" },
+       { "symbol": "ETH", "change24h": "-13.2%", "marketCap": "75.95M", "count": 1, "id": "5" },
+ { "symbol": "ETH", "change24h": "-13.2%", "marketCap": "75.95M", "count": 1, "id": "5" },
+      { "symbol": "BSW", "change24h": "+35.2%", "marketCap": "4.95M", "count": 1, "id": "6" }
+    ] },
+    { "id": "5", "title": "Portfolio 5", "description":"Description 5", "assets":[
       { "symbol": "BTC", "change24h": "-3.2%", "marketCap": "988.95M", "count": 1, "id": "1" },
       { "symbol": "ETH", "change24h": "-1.2%", "marketCap": "765.95M", "count": 1, "id": "2" },
       { "symbol": "BSW", "change24h": "+3.2%", "marketCap": "34.95M", "count": 1, "id": "3" }
     ] }
   ],
   "profile": {
-    "name": "Cmanka"
+    "username": "Cmanka",
+    "password": "123"
   }
 }
